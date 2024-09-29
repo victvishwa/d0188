@@ -1,0 +1,38 @@
+D0188 - Red Hat Openshift Container Platform 
+ - Red Hat Openshift Development: 1
+	Introduction to Containers with Podman
+	
+   - Introduces to 
+	    - Build
+	    - run
+	    - manage 
+     on
+     Containers
+   - Helps students to 
+	    - Build the core skills for developing containerized applications through Hands on Experience
+	    - Can be applied on all versions of OpenShift 
+		      - Red Hat OpenShift on AWS (ROSA)
+		      - Azure Red Hat OpenShift (ARO)
+		      - OpenShift Container Plaform
+      - Based on 
+	        - RHEL 9 
+	        - Podman 4.4
+	        - Red Hat OpenShift 4.14
+   - Course Objectives
+      - Build and manage containers 
+          - with Podman for Deployment on a 
+              - Kubernetes
+              - OpenShift 4 Cluster
+      - Prepares for Ex188 
+      - Audience
+        - Developers
+        - Site Reliability Engineers
+      - Additional Knowledge on 
+        - Web Application Architectures
+        - Web Technologies
+        - Linux Command Line Terminal 
+        - Issue of Operating System Commands
+        - Familiarity with Shell Scripting is recommended
+
+
+
